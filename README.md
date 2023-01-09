@@ -5,18 +5,18 @@
 
 ## iOS
 - [Bounds 와 Frame 의 차이점을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/1)
-- 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
-- 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?
-- 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?
-- App thinning에 대해서 설명하시오.
+- [실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/2)
+- [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?](https://github.com/HypeDitto/iOS-Study/issues/3)
+- [앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?](https://github.com/HypeDitto/iOS-Study/issues/4)
+- [App thinning에 대해서 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/5)
 
 ### 
 
-- 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?
-- @Main에 대해서 설명하시오.
-- 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?
-- 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.
-- 앱이 In-Active 상태가 되는 시나리오를 설명하시오.
+- [앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?](https://github.com/HypeDitto/iOS-Study/issues/6)
+- [@Main에 대해서 설명하시오](https://github.com/HypeDitto/iOS-Study/issues/7)
+- [앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?](https://github.com/HypeDitto/iOS-Study/issues/8)
+- [상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/9)
+- [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/10)
 - scene delegate에 대해 설명하시오.
 - UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?
 - App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
