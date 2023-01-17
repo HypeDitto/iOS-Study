@@ -17,22 +17,22 @@
 - [앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?](https://github.com/HypeDitto/iOS-Study/issues/8)
 - [상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/9)
 - [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/10)
-- scene delegate에 대해 설명하시오.
-- UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?
-- App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
+- [scene delegate에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/11)
+- [UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?](https://github.com/HypeDitto/iOS-Study/issues/12)
+- [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/13)
 
 ### 
 
-- NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.
-- GCD API 동작 방식과 필요성에 대해 설명하시오.
-- Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.
+- [NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/14)
+- [GCD API 동작 방식과 필요성에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/15)
+- [Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/16)
 
 ### 
 
-- iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
-- Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.
-- Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.
-- NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.
+- [iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?](https://github.com/HypeDitto/iOS-Study/issues/17)
+- [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/18)
+- [Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/19)
+- [NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/20)
 - UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?
 - App Bundle의 구조와 역할에 대해 설명하시오.
 - 모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?
