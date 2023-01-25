@@ -33,16 +33,16 @@
 - [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/18)
 - [Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/19)
 - [NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/20)
-- UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?
-- App Bundle의 구조와 역할에 대해 설명하시오.
-- 모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?
-- 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.
-- View 객체에 대해 설명하시오.
-- UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.
-- UIWindow 객체의 역할은 무엇인가?
-- UINavigationController 의 역할이 무엇인지 설명하시오.
-- TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.
-- 하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.
+- [UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?](https://github.com/HypeDitto/iOS-Study/issues/21)
+- [App Bundle의 구조와 역할에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/22)
+- [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?](https://github.com/HypeDitto/iOS-Study/issues/23)
+- [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/24)
+- [View 객체에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/25)
+- [UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/26)
+- [UIWindow 객체의 역할은 무엇인가?](https://github.com/HypeDitto/iOS-Study/issues/27)
+- [UINavigationController 의 역할이 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/28)
+- [TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/29)
+- [하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/30)
 - setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.
 - stackView의 장점과 단점에 대해서 설명하시오.
 
