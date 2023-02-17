@@ -59,19 +59,19 @@
 
 - [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)](https://github.com/HypeDitto/iOS-Study/issues/39)
 - [hugging, resistance에 대해서 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/40)
-- Intrinsic Size에 대해서 설명하시오.
-- 스토리보드를 이용했을때의 장단점을 설명하시오.
-- Safearea에 대해서 설명하시오.
-- Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.
+- [Intrinsic Size에 대해서 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/41)
+- [스토리보드를 이용했을때의 장단점을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/42)
+- [Safearea에 대해서 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/43)
+- [Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/44)
 
 ## Swift
 
-- struct와 class와 enum의 차이를 설명하시오.
-- class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
-- Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
-- Convenience init에 대해 설명하시오.
-- AnyObject에 대해 설명하시오.
-- Optional 이란 무엇인지 설명하시오.
+- [struct와 class와 enum의 차이를 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/45)
+- [class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.](https://github.com/HypeDitto/iOS-Study/issues/46)
+- [Copy On Write는 어떤 방식으로 동작하는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/47)
+- [Convenience init에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/48)
+- [AnyObject에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/49)
+- [Optional 이란 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/50)
 - Struct 가 무엇이고 어떻게 사용하는지 설명하시오.
 - Subscripts에 대해 설명하시오.
 - String은 왜 subscript로 접근이 안되는지 설명하시오.
