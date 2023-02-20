@@ -72,16 +72,16 @@
 - [Convenience init에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/48)
 - [AnyObject에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/49)
 - [Optional 이란 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/50)
-- Struct 가 무엇이고 어떻게 사용하는지 설명하시오.
-- Subscripts에 대해 설명하시오.
-- String은 왜 subscript로 접근이 안되는지 설명하시오.
-- instance 메서드와 class 메서드의 차이점을 설명하시오.
-- class 메서드와 static 메서드의 차이점을 설명하시오.
-- Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.
-- Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
-- KVO 동작 방식에 대해 설명하시오.
-- Delegates와 Notification 방식의 차이점에 대해 설명하시오.
-- 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
+- [Struct 가 무엇이고 어떻게 사용하는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/51)
+- [Subscripts에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/52)
+- [String은 왜 subscript로 접근이 안되는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/53)
+- [instance 메서드와 class 메서드의 차이점을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/54)
+- [class 메서드와 static 메서드의 차이점을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/55)
+- [Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/56)
+- [Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/57)
+- [KVO 동작 방식에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/58)
+- [Delegates와 Notification 방식의 차이점에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/59)
+- [멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/60)
 - MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
 - 프로토콜이란 무엇인지 설명하시오.
 - Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
