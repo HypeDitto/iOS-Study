@@ -82,16 +82,16 @@
 - [KVO 동작 방식에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/58)
 - [Delegates와 Notification 방식의 차이점에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/59)
 - [멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/60)
-- MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
-- 프로토콜이란 무엇인지 설명하시오.
-- Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
-- Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
-- mutating 키워드에 대해 설명하시오.
-- 탈출 클로저에 대하여 설명하시오.
-- Extension에 대해 설명하시오.
-- Extension 내부에서 함수를 override할 수 있는지 설명하시오.
-- 접근 제어자의 종류엔 어떤게 있는지 설명하시오.
-- defer란 무엇인지 설명하시오.
+- [MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/61)
+- [프로토콜이란 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/62)
+- [Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/63)
+- [Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/64)
+- [mutating 키워드에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/65)
+- [탈출 클로저에 대하여 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/66)
+- [Extension에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/67)
+- [Extension 내부에서 함수를 override할 수 있는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/68)
+- [접근 제어자의 종류엔 어떤게 있는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/69)
+- [defer란 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/70)
 - defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.
 - property wrapper에 대해서 설명하시오.
 - Generic에 대해 설명하시오.
