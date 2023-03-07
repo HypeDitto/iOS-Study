@@ -92,19 +92,19 @@
 - [Extension 내부에서 함수를 override할 수 있는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/67)
 - [접근 제어자의 종류엔 어떤게 있는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/68)
 - [defer란 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/69)
-- defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.
-- property wrapper에 대해서 설명하시오.
-- Generic에 대해 설명하시오.
-- some 키워드에 대해 설명하시오.
-- Result타입에 대해 설명하시오.
-- Codable에 대하여 설명하시오.
-- Closure에 대하여 설명하시오.
-- Closure와 함수와의 관계에 대해 설명하시오.
+- [defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/71)
+- [property wrapper에 대해서 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/72)
+- [Generic에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/73)
+- [some 키워드에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/74)
+- [Result타입에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/75)
+- [Codable에 대하여 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/76)
+- [Closure에 대하여 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/77)
+- [Closure와 함수와의 관계에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/78)
 
 ## ARC
 
-- ARC란 무엇인지 설명하시오.
-- Retain Count 방식에 대해 설명하시오.
+- [ARC란 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/79)
+- [Retain Count 방식에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/80)
 - Strong 과 Weak 참조 방식에 대해 설명하시오.
 - 순환 참조에 대하여 설명하시오.
 - 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.
