@@ -105,18 +105,18 @@
 
 - [ARC란 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/79)
 - [Retain Count 방식에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/80)
-- Strong 과 Weak 참조 방식에 대해 설명하시오.
-- 순환 참조에 대하여 설명하시오.
-- 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.
+- [Strong 과 Weak 참조 방식에 대해 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/81)
+- [순환 참조에 대하여 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/82)
+- [강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/83)
 
 ## Functional Programming
 
-- 순수함수란 무엇인지 설명하시오.
-- 함수형 프로그래밍이 무엇인지 설명하시오.
-- 고차 함수가 무엇인지 설명하시오.
-- Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.
+- [순수함수란 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/84)
+- [함수형 프로그래밍이 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/85)
+- [고차 함수가 무엇인지 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/86)
+- [Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/87)
 
 ## Architecture
 
-- MVVM, MVI, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오.
-- 의존성 주입에 대하여 설명하시오.
+- [MVVM, MVI, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/88)
+- [의존성 주입에 대하여 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/89)
