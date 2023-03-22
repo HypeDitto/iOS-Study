@@ -1,7 +1,8 @@
 # 🍎 iOS 기술 면접 대비
 > 참조: [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions)
 
-> 매주 10개의 토픽 정리하여, 화요일 오후 3시 디스코드에서 온라인 공유
+> 1회차: 매주 10개의 토픽 정리하여, 화요일 오후 3시 디스코드에서 온라인 공유
+> 2회차: 답변 외워서 실전 연습
 
 ## iOS
 - [Bounds 와 Frame 의 차이점을 설명하시오.](https://github.com/HypeDitto/iOS-Study/issues/1)
