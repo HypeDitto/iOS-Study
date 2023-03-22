@@ -2,6 +2,7 @@
 > 참조: [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions)
 
 > 1회차: 매주 10개의 토픽 정리하여, 화요일 오후 3시 디스코드에서 온라인 공유
+> 
 > 2회차: 답변 외워서 실전 연습
 
 ## iOS
